@@ -1,0 +1,56 @@
+#### C:\Users\meile\Projects\CarND-Project4\CarND-Advanced-Lane-Lines-master\test_images\straight_lines1.jpg ####
+
+evaluated curvature left: 7029.93413351m 
+evaluated curvature right: 4043.96929774mlane width in meters : 3.61
+position of the car with respect to the lane center in meters : 1.7
+
+################
+#### C:\Users\meile\Projects\CarND-Project4\CarND-Advanced-Lane-Lines-master\test_images\straight_lines2.jpg ####
+
+evaluated curvature left: 6472.86968423m 
+evaluated curvature right: 19721.3644247mlane width in meters : 3.71
+position of the car with respect to the lane center in meters : 1.65
+
+################
+#### C:\Users\meile\Projects\CarND-Project4\CarND-Advanced-Lane-Lines-master\test_images\test1.jpg ####
+
+evaluated curvature left: 1154.40251838m 
+evaluated curvature right: 516.536506541mlane width in meters : 3.89
+position of the car with respect to the lane center in meters : 1.56
+
+################
+#### C:\Users\meile\Projects\CarND-Project4\CarND-Advanced-Lane-Lines-master\test_images\test2.jpg ####
+
+evaluated curvature left: 8565.77377887m 
+evaluated curvature right: 575.3200006mlane width in meters : 3.43
+position of the car with respect to the lane center in meters : 1.79
+
+################
+#### C:\Users\meile\Projects\CarND-Project4\CarND-Advanced-Lane-Lines-master\test_images\test3.jpg ####
+
+evaluated curvature left: 685.576344119m 
+evaluated curvature right: 599.106871589mlane width in meters : 3.7
+position of the car with respect to the lane center in meters : 1.65
+
+################
+#### C:\Users\meile\Projects\CarND-Project4\CarND-Advanced-Lane-Lines-master\test_images\test4.jpg ####
+
+evaluated curvature left: 643.099915273m 
+evaluated curvature right: 489.580036092mlane width in meters : 3.64
+position of the car with respect to the lane center in meters : 1.69
+
+################
+#### C:\Users\meile\Projects\CarND-Project4\CarND-Advanced-Lane-Lines-master\test_images\test5.jpg ####
+
+evaluated curvature left: 553.191996135m 
+evaluated curvature right: 492.450970708mlane width in meters : 3.9
+position of the car with respect to the lane center in meters : 1.55
+
+################
+#### C:\Users\meile\Projects\CarND-Project4\CarND-Advanced-Lane-Lines-master\test_images\test6.jpg ####
+
+evaluated curvature left: 1368.14615124m 
+evaluated curvature right: 580.090657912mlane width in meters : 4.03
+position of the car with respect to the lane center in meters : 1.49
+
+################
